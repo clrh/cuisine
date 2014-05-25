@@ -1,8 +1,10 @@
 # Summary
 
-* [Chapitre 1](chap-01/README.md)
-    * [Partie 1](chap-01/01-mon-texte.md)
-    * [Partie 2](chap-01/02-mon-texte.md)
-* [Chapitre 2](chap-02/README.md)
-    * [Partie 1](chap-02/01-mon-texte.md)
-    * [Partie 2](chap-02/02-mon-texte.md)
+* [Entrées](entrees/README.md)
+* [Plats](plats/README.md)
+    * [Viandes](plats/viandes.md)
+    * [Poissons](plats/poissons.md)
+    * [Végétariens](plats/vegetariens.md)
+* [Desserts](desserts/README.md)
+* [Boissons](boissons/README.md)
+* [Pains](pains/README.md)
