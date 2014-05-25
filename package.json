@@ -1,12 +1,12 @@
 {
-  "name": "ma-vie-mon-oeuvre",
+  "name": "cuisine",
   "version": "0.0.1",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/e-books/ma-vie-mon-oeuvre.git"
+    "url": "https://github.com/clrh/cuisine.git"
   },
-  "author": "@k33g_org <https://twitter.com/k33g_org>",
+  "author": "@clrh <https://twitter.com/clrh>",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
