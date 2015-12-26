@@ -730,72 +730,21 @@ http://www.cleacuisine.fr/gateaux/et-vous-vous-faites-quoi-ce-week-end/
 
 * http://cuisinetvoyage.canalblog.com/archives/2007/07/20/5671241.html
 
-Pour un petit bocal d'ail confit :<a href="http://storage.canalblog.com/89/43/178438/15318227.jpg" target="_blank"><img alt="DSC07552__Large_" border="0" height="225" src="http://storage.canalblog.com/89/43/178438/15318227_p.jpg" style="margin-top:0px;margin-bottom:5px;float:right;" width="300"></a></em></u>2 ou 3 têtes d’ail rose<br>
-1 branche de thym<br>
-1 branche de romarin<br>
-2 feuilles de laurier<br>
-1 cc de poivre en grains<br>
-50 cl d’huile d’oliveSéparer les gousses de la tête d’ail sans les éplucher.Dans une casserole, mettre les herbes aromatiques, le poivre, les gousses, et recouvrir d’huile d’olive.Faire chauffer à feu très doux ; l’huile de doit jamais bouillir, à peine frémir, pendant environ 1 heure, toujours à découvert. La pointe d’un couteau doit pénétrer facilement dans les gousses.Les laisser refroidir dans l’huile, ôter leur peau qui vient toute seule, et les mettre en bocaux au réfrigérateur.Pour une conservation optimale, stériliser les pots (10 mn à 110°), y disposer les gousses, recouvrir d’huile, puis fermer.<br>
+Pour un petit bocal d'ail confit : http://storage.canalblog.com/89/43/178438/15318227_p.jpg 
+
+* 2 ou 3 têtes d’ail rose
+* 1 branche de thym
+* 1 branche de romarin
+* 2 feuilles de laurier
+* 1 cc de poivre en grains
+* 50 cl d’huile d’olive
+
+Séparer les gousses de la tête d’ail sans les éplucher.Dans une casserole, mettre les herbes aromatiques, le poivre, les gousses, et recouvrir d’huile d’olive.Faire chauffer à feu très doux ; l’huile de doit jamais bouillir, à peine frémir, pendant environ 1 heure, toujours à découvert. La pointe d’un couteau doit pénétrer facilement dans les gousses.Les laisser refroidir dans l’huile, ôter leur peau qui vient toute seule, et les mettre en bocaux au réfrigérateur.Pour une conservation optimale, stériliser les pots (10 mn à 110°), y disposer les gousses, recouvrir d’huile, puis fermer.
+
 Sinon, ils se garderont environ deux semaines.
-    'teaser' => '
+
 http://cuisinetvoyage.canalblog.com/archives/2007/07/20/5671241.html
 
-Pour un petit bocal d'ail confit :<a href="http://storage.canalblog.com/89/43/178438/15318227.jpg" target="_blank"><img alt="DSC07552__Large_" border="0" height="225" src="http://storage.canalblog.com/89/43/178438/15318227_p.jpg" style="margin-top:0px;margin-bottom:5px;float:right;" width="300"></a></em></u>2 ou 3 têtes d’ail rose<br>
-1 branche de thym<br>
-1 branche de romarin<br>
-2 feuilles de laurier<br>
-1 cc de poivre en grains<br>
-50 cl d’huile d’oliveSéparer les gousses de la tête d’ail sans les éplucher.Dans une casserole, mettre les herbes aromatiques, le poivre, les gousses, et recouvrir d’huile d’olive.Faire chauffer à feu très doux ; l’huile de doit jamais bouillir, à peine frémir, pendant environ 1 heure, toujours à découvert. La pointe d’un couteau doit pénétrer facilement dans les gousses.Les laisser refroidir dans l’huile, ôter leur peau qui vient toute seule, et les mettre en bocaux au réfrigérateur.Pour une conservation optimale, stériliser les pots (10 mn à 110°), y disposer les gousses, recouvrir d’huile, puis fermer.<br>
-Sinon, ils se garderont environ deux semaines.
-    'log' => '
-    'revision_timestamp' => '1401133103
-    'format' => '2
-    'name' => 'claire
-    'picture' => '
-    'data' => 'a:2:{s:13:"form_build_id";s:37:"form-19cb80cb0baf9fa61d37a51572260851";s:7:"contact";i:1;}
-    'path' => 'content/bocal-dail-confit
-    'last_comment_timestamp' => '1289063694
-    'last_comment_name' => NULL,
-    'comment_count' => '0
-    'taxonomy' => array(
-      'tags' => array(
-        '4' => 'Conserve
-      ),
-    ),
-    'files' => array(),
-    'imgupload_images' => array(),
-    'menu' => array(
-      'link_title' => '
-      'mlid' => 0,
-      'plid' => 0,
-      'menu_name' => 'primary-links
-      'weight' => 0,
-      'options' => array(),
-      'module' => 'menu
-      'expanded' => 0,
-      'hidden' => 0,
-      'has_children' => 0,
-      'customized' => 0,
-      'parent_depth_limit' => 8,
-    ),
-    '#_export_node_encode_object' => '1
-  ),
-    array(
-    'nid' => '124
-    'type' => 'recette
-    'language' => 'fr
-    'uid' => '4
-    'status' => '1
-    'created' => '1289483097
-    'changed' => '1401133104
-    'comment' => '2
-    'promote' => '0
-    'moderate' => '0
-    'sticky' => '0
-    'tnid' => '0
-    'translate' => '0
-    'vid' => '124
-    'revision_uid' => '0
 ## Plat espagnol "no name"
 * Recette de François.À faire revenir dans de l'huile d'olive :<ul>Chorizo, le plus fort possible, découpé en rondelles
 * Un poivron découpé en larges bandes
