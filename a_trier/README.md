@@ -1,80 +1,9 @@
 # À trier
 
 
-#  Daube de ma maman
-
-familiale - maman - boeuf
-
-* 1kg de viande pour daube (le boucher sait)
-* 1 bouteille de vin rouge (type bordeaux normal de 3 à 5 euros)
-* 1 gros oignon
-* 2 tomates mures ou 1 petite boite de pulpe de tomates (pas la tres grosse boite, la moyenne en fait)
-
-dans une cocotte en fonte mettre successivement
-* l'huile d'olive,  2 càs
-* l'oignon en lamelle
-* les tomates
-* la viande qui sera coupée normalement en gros dés par le boucher
-* sel et poivre (bien poivrer er saler assez)
-* du thym ou des herbes de provence
-* qques gousses d'ail entières simplement ecrasées ac le plat de la main
-* le vin qui doit recouvrir la viande
-
-couvrir
-* feu tres doux (tu commences à atteindre lebullition et apres la plaque electrique c l'ideal à bas regime pour tout ce qui est mijoté)
-* veille bien à ce qu'il y ait tjs un petit fremissement mais sans plus
-* tu laisses mijoter 2 ou 3 heures en verifiant que ca m'accroche pas, et en remuant de tps en tps
 
 
-##  Épaule d'agneau aux épices de ma maman
 
-familiale - maman - agneau
-
-* tu places 1 epaule d'agneau entière ds une cocotte en fonte
-* par dessus tu mets toutes les epices qui te plaisent :gingembre, cannelle, 4 epices, clou de girofle....
-* sel poivre et un jet d'huile d'olive
-* 1 verre d'eau
-* tu couvres et tu mets au four 3 à 4 heures à 150° chaleur tounante
-* tu regardes de tps en tps pour voir s'il y a tjs un peu de liquide ds le fond
-* tu peux ervir ac de la graine de couscous
-
-autre variante moins orientale
-* à la place des epices, tu mets des gousses d'ail en chemise, une vingtaine
-* des herbes de provence ou du thym ou de la marjolaine
-* de l'huile doline du sel du poivre
-* tjs un petit verre d'eau et meme cuisson
-
-## Tajine de maman
-
-familiale - maman - agneau
-
-* 1 kg d'epaule d'agneau en gros des
-* 2 oignons
-* 1 bon morceau de beurre
-* 1 tt petit verre de miel
-* sel poivre
-* clou de giroffle,cannelle gingembre,safran
-* fleur d'oranger 2càc (facultatif)
-* pruneaux
-* amandes effilées
-* 1 gousse d'ail
-* sesame
-
-
-* raper les oignons assez fins
-* les melanger ac sel poivre epices beurre
-* ajouter la viande
-* tout mettre ds une cocotte en fonte ac un peu d'eau (1verre et surveiller)
-* cuire à tt petit feu 2 à 3 h sur une plaque electrique
-* faire revenir les amandes ds une poele huilee (attention ça va tres vite)
-* ajouter les pruneaux 1/2 avant la fin de la cuisson
-* ajouter le miel à la fin
-* au moment de servir parsemer des amendes et du sesame si on veut
-
-à titre indicatif
-* pour 1kg de viande prevoir 250 g de pruneux 150g d'oignons 2 cas de miel
-* apres c selon les gouts
-* on peut aussi mettre la cocotte ds le four à 150°
 
 
 ##Pâte à tarte
@@ -310,7 +239,7 @@ Ce cake se conserve plusieurs jours dans un torchon propre et sec.
 ** Ajouter les oeufs.
 ** Saler, poivrer, et parsemer de fromage râpé.
 ** Déguster sans attendre.
-* 
+*
 
 
 ## Tarte au yahourt de la tartine gourmande
@@ -710,17 +639,17 @@ http://cuisinetvoyage.canalblog.com/archives/2006/12/11/3393001.html
 ## Pain d'épices de Clea
 
 * 120g de sucre roux
-* 80g de miel liquide 
-* 1/3l de lait d’avoine (ou autre lait de votre choix) 
-* 140g de farine blanche 
-* 200g de farine bise 
-* 1 yaourt de soja (ou autre) 
+* 80g de miel liquide
+* 1/3l de lait d’avoine (ou autre lait de votre choix)
+* 140g de farine blanche
+* 200g de farine bise
+* 1 yaourt de soja (ou autre)
 * 2 cuillerées à café d’épices à pain d’épices
 * 2 cuillerées à café rases de bicarbonate de soude (délayé dans 2 cuillerées à soupe d’eau chaude)
 
-* Dans une casserole, mélanger le sucre, le lait et le miel. Faire fondre à feu très doux en remuant bien. 
-* Dans un saladier, mélanger la farine, les épices et le yaourt. Verser le mélange de lait. Ajouter le bicarbonate délayé dans l’eau chaude. Bien mélanger le tout, puis verser dans un moule à cake. 
-* Enfourner 25 minutes à 160°, puis 25 minutes à 200°C. 
+* Dans une casserole, mélanger le sucre, le lait et le miel. Faire fondre à feu très doux en remuant bien.
+* Dans un saladier, mélanger la farine, les épices et le yaourt. Verser le mélange de lait. Ajouter le bicarbonate délayé dans l’eau chaude. Bien mélanger le tout, puis verser dans un moule à cake.
+* Enfourner 25 minutes à 160°, puis 25 minutes à 200°C.
 * Bien laisser refroidir avant de découper ! – Il est important de ne pas céder, même si ça sent divinement bon, sous peine de le réduire en charpie !
 * Mélange de cannelle, gingembre, 4 épices… Je l’achète tout prêt sous la marque bio «Les jardins de Gaà¯a et je l’utilise accessoirement pour faire des biscuits parfumés
 
@@ -730,7 +659,7 @@ http://www.cleacuisine.fr/gateaux/et-vous-vous-faites-quoi-ce-week-end/
 
 * http://cuisinetvoyage.canalblog.com/archives/2007/07/20/5671241.html
 
-Pour un petit bocal d'ail confit : http://storage.canalblog.com/89/43/178438/15318227_p.jpg 
+Pour un petit bocal d'ail confit : http://storage.canalblog.com/89/43/178438/15318227_p.jpg
 
 * 2 ou 3 têtes d’ail rose
 * 1 branche de thym
@@ -1044,7 +973,7 @@ http://cuisinetvoyage.canalblog.com/archives/2007/07/20/5671241.html
 * dans un bol, mélanger crème et jaune d'oeuf, puis 1 jus de citron et du poivre
 * verser sur la viande et laisser frémir qqes minutes avt de servir ac riz ou patates à la vapeur
 * on peut rajouter à la fin du persil emincé pour la couleur, car ça ne rejoute rien au gout dc facultatif
-* 
+*
     'teaser' => '&nbsp;<div>Ma maman se met à la blanquette... et c'est troooooop bon! (Extrait d'un mail)</div><div>&nbsp;</div><div>Blanquette de veau, 4 personnes</div><div>(ultra simple, pas gras, moyennement économique)</div><div>&nbsp;</div><div>Ingrédients:</div><ul>1kg de viande de veau pour blanquette (franchement la viande de casino en barquette était meilleure que celle d'aujourd'hui que g prise chez le boucher)
 * carottes
 * champignons en boite (si frais les faire revenir en morceaux à part d'abord)
@@ -1065,7 +994,7 @@ http://cuisinetvoyage.canalblog.com/archives/2007/07/20/5671241.html
 * dans un bol, mélanger crème et jaune d'oeuf, puis 1 jus de citron et du poivre
 * verser sur la viande et laisser frémir qqes minutes avt de servir ac riz ou patates à la vapeur
 * on peut rajouter à la fin du persil emincé pour la couleur, car ça ne rejoute rien au gout dc facultatif
-* 
+*
     'log' => '
     'revision_timestamp' => '1401133106
     'format' => '2
@@ -1143,7 +1072,7 @@ http://cuisinetvoyage.canalblog.com/archives/2007/07/20/5671241.html
 * 200g de beurre.
 * 6oeufs&nbsp;(Battre un peu les blancs en neige)
 * vanille (2/3 gousses facultatif)
-* 
+*
     'teaser' => '<div>Pâte à crêpes.</div><div>Ingrédients pour environ 15 crêpes.</div><ul>300g de farine.
 * 3oeufs.
 * 3 cuillères à soupes de sucre.
@@ -1171,7 +1100,7 @@ http://cuisinetvoyage.canalblog.com/archives/2007/07/20/5671241.html
 * 200g de beurre.
 * 6oeufs&nbsp;(Battre un peu les blancs en neige)
 * vanille (2/3 gousses facultatif)
-* 
+*
     'log' => '
     'revision_timestamp' => '1401133106
     'format' => '2
@@ -1529,7 +1458,7 @@ faire bouillir eau + épices pdt 10 à 15 minutes (doux, couvert), ajouter sucre
 * carambar
 * thé
 * épices à pain d'épice
-* 
+*
     'teaser' => '<u>Yahourts citron / amande</u><ul>Rapper 3 citrons bio dans 1 litre de lait
 * Porter à ébullition
 * Délayer 2 CS de purée d'amande
@@ -1549,7 +1478,7 @@ faire bouillir eau + épices pdt 10 à 15 minutes (doux, couvert), ajouter sucre
 * carambar
 * thé
 * épices à pain d'épice
-* 
+*
     'log' => '
     'revision_timestamp' => '1401133108
     'format' => '2
@@ -1626,7 +1555,7 @@ faire bouillir eau + épices pdt 10 à 15 minutes (doux, couvert), ajouter sucre
 * <span class="Apple-style-span" style="line-height: 24px; ">On reste sur la tomate: Une fois étalée tu mets poivre sel et huile d'olive avec origan; attention au dosage. L'huile d'olive tu peux aussi la mettre en fin de garnissage Ensuite tu mets ce que tu veux Je te propose la jambon cru avec pignons,&nbsp;</span><span class="Apple-style-span" style="line-height: 24px; "><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-family: arial, sans-serif; font-size: 13px; border-collapse: collapse; ">mozzarella en pain de 400 gr&nbsp;</span>&nbsp;et salade de roquette : Une fois ta pizza cuite, tu mets en chiffon le jambon cru, les pignons et la roquette dessus ( pas de cuisson tu sers frais avec ton fond de pizza chaud ) &nbsp;</span>et mozzarella en feuilles fines de l'ordre du millimètre à étaler sur toute la surface"
 * <span class="Apple-style-span" style="line-height: 24px; ">Pour le dessert, tu fais cuire ta pâte étalée, à peine de telle sorte à ce que tu ne cuises pas longtemps le reste Et ensuite tu étales un coulis de chocolat avec crème fraîche ( que tu prépares avant dans une casserole ) Tu déposes des cartiers de fruits en lamelles de 1 cm ( poire, banane, sans plus ) Tu saupoudre de sucre la surface et tu mets au four Une fois sortie tu mets du rhum dessus que tu fais flamber Ce n'est pas mauvais du tout </span>
 * <span class="Apple-style-span" style="line-height: 24px; ">Je ne t'ai pas parlé de la cuisson, mais tu dois surveiller la cuisson, du fait qu'il faut 2 à 4 minutes suivant le four pour cuire ta pizza</span>
-* 
+*
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en parts pour de prochaines pizzas. Le seul souci est la pâte qui congelée à du mal à prendre du volume; mais ça se fait quand-même. Si un jour tu décides de faire le soir des pizzas, tu sors le matin tes ingrédients et le soir en 10 minutes ta pizza est prête pour être enfournée, c'est la montée en température du four qui te prendra le plus de temps. Et ta pizza sera de qualité incomparable à celle de la caravane du coin de la rue et aussi moins chère. Tu peux congeler ta pizza entière aussi ( regarde pour les 80 ans de mamie )j'en avais fait une quinzaine que j'avais décongelé à la cuisson au four directement ( rien à voir avec une pizza confectionnée comme dit maman, extemporanément mais cela fait aussi. T'as des amis un soir, tu sors tes pizzas du congélateur et tu ne passes pas ton temps à la cuisine.&nbsp;
     'teaser' => '<u>Préparation</u>Alors première chose c'est la cuisson qui au four électrique n'est pas top.Conseil: Prendre un papier sulfurisé que tu placeras sur une grille qui sera sur la lèche fritte. Tout ceci pour permettre une cuisson de la patte sous la pizza. Il existe dans le commerce des plats métalliques qui sont troués dans le fond. A voir , jamais essayé.Pâte : suivre au mg et pas de dérive. En gros tu feras 2 kg de pâte:<ul>1 kg de farine basique bio type 65
@@ -1655,7 +1584,7 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 * <span class="Apple-style-span" style="line-height: 24px; ">On reste sur la tomate: Une fois étalée tu mets poivre sel et huile d'olive avec origan; attention au dosage. L'huile d'olive tu peux aussi la mettre en fin de garnissage Ensuite tu mets ce que tu veux Je te propose la jambon cru avec pignons,&nbsp;</span><span class="Apple-style-span" style="line-height: 24px; "><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-family: arial, sans-serif; font-size: 13px; border-collapse: collapse; ">mozzarella en pain de 400 gr&nbsp;</span>&nbsp;et salade de roquette : Une fois ta pizza cuite, tu mets en chiffon le jambon cru, les pignons et la roquette dessus ( pas de cuisson tu sers frais avec ton fond de pizza chaud ) &nbsp;</span>et mozzarella en feuilles fines de l'ordre du millimètre à étaler sur toute la surface"
 * <span class="Apple-style-span" style="line-height: 24px; ">Pour le dessert, tu fais cuire ta pâte étalée, à peine de telle sorte à ce que tu ne cuises pas longtemps le reste Et ensuite tu étales un coulis de chocolat avec crème fraîche ( que tu prépares avant dans une casserole ) Tu déposes des cartiers de fruits en lamelles de 1 cm ( poire, banane, sans plus ) Tu saupoudre de sucre la surface et tu mets au four Une fois sortie tu mets du rhum dessus que tu fais flamber Ce n'est pas mauvais du tout </span>
 * <span class="Apple-style-span" style="line-height: 24px; ">Je ne t'ai pas parlé de la cuisson, mais tu dois surveiller la cuisson, du fait qu'il faut 2 à 4 minutes suivant le four pour cuire ta pizza</span>
-* 
+*
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en parts pour de prochaines pizzas. Le seul souci est la pâte qui congelée à du mal à prendre du volume; mais ça se fait quand-même. Si un jour tu décides de faire le soir des pizzas, tu sors le matin tes ingrédients et le soir en 10 minutes ta pizza est prête pour être enfournée, c'est la montée en température du four qui te prendra le plus de temps. Et ta pizza sera de qualité incomparable à celle de la caravane du coin de la rue et aussi moins chère. Tu peux congeler ta pizza entière aussi ( regarde pour les 80 ans de mamie )j'en avais fait une quinzaine que j'avais décongelé à la cuisson au four directement ( rien à voir avec une pizza confectionnée comme dit maman, extemporanément mais cela fait aussi. T'as des amis un soir, tu sors tes pizzas du congélateur et tu ne passes pas ton temps à la cuisine.&nbsp;
     'log' => '
@@ -1791,7 +1720,7 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 * Mettre dans un plat
 * Soupoudrer de sel
 * Enfourner pour 15 à 30 minutes à 150° (surveiller)
-* 
+*
     'teaser' => 'Ingrédients<ul>des amandes ou des noisettes ou autre
 * du sel
 * Recette<ul>Faire un peu bouillir les fruits secs
@@ -1799,7 +1728,7 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 * Mettre dans un plat
 * Soupoudrer de sel
 * Enfourner pour 15 à 30 minutes à 150° (surveiller)
-* 
+*
     'log' => '
     'revision_timestamp' => '1401133109
     'format' => '2
@@ -1998,7 +1927,7 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 * <div>Pour le sirop :</div><ul>eau
 * sucre glace (à votre convenance)
 * matcha en poudre à votre convenance (car tout le monde tolère plus ou moins bien le goût fort âcre du matcha).
-* 
+*
     'teaser' => '&nbsp;<div><a href="http://ochatowagashi.free.fr/index.php/2011/05/02/tiramisu-au-the-matcha/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+o-cha-to-wagashi+%28o-cha+to+wagashi+-+th%C3%A9+et+petits+g%C3%A2teaux%29">TIRAMISU AU THE MATCHA</a></div><div></div><div>Ingrédients</div><div>&nbsp;</div><div>Pour le biscuit :</div><ul>170g d’oeufs
 * 36g de farine
 * 6g de matcha en poudre
@@ -2015,7 +1944,7 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 * <div>Pour le sirop :</div><ul>eau
 * sucre glace (à votre convenance)
 * matcha en poudre à votre convenance (car tout le monde tolère plus ou moins bien le goût fort âcre du matcha).
-* 
+*
     'log' => '
     'revision_timestamp' => '1401133110
     'format' => '2
@@ -2740,7 +2669,7 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 * <div>1 cuillère à café de moutarde</div>
 * <div>30 g d’oignons</div>
 * <div><div><div>10 g d’ail pressé</div></div></div>
-* 
+*
     'teaser' => '<ul>6 càs d'algues (mélange de la mer, ou du pêcheur ou fait soi-mm)
 * 10 càs d'huile ( 6 d'huile d'olive, 2 de noix ou noisette, 2 de sésame grillé, ou selon les envies)
 * le jus d'un citron vert
@@ -2761,7 +2690,7 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 * <div>1 cuillère à café de moutarde</div>
 * <div>30 g d’oignons</div>
 * <div><div><div>10 g d’ail pressé</div></div></div>
-* 
+*
     'log' => '
     'revision_timestamp' => '1401133115
     'format' => '2
@@ -2861,7 +2790,7 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 * Pour les balaises: râper du combava dedans! (Pour trouver du combava en France: allé chez les épiceries asiatiques en cherchant bien vous trouverez peut être! Et si vous savez pas a quoi sa ressemble, bin déjà zete dans la merde, enfin ça ressemble a un petit citron vert boursouflé, passé un ongle dessus vous sentirez l'odeur caractéristique entre citron et citronnelle. Après si vous savez pas a quoi sa ressemble, et encore moins qu'est-ce que ça sent... bin tirer la chasse au point ou vous en êtes!!)
 * Pour les moins balaises mais néanmoins pas trop con : vous pouvez remplacer le combava par du citron vert (râper, mettez un peu de pulpe et de jus et le tour est joué: vous avez un rougail citron vert!) Vous pouvez aussi le faire avec de la mangue verte aussi! Vous pouvez le faire aussi avec des gratons, c sympa un rougail qui croque! Bien sure si vous savez pas ce qu'est des gratons bin vous êtes aussi dans la merde: rendez vous dans un magasin Asiatique (Chips a base de couane de porc frit! hum c trop bon! Mais attention pas manger de graton quand on a fumé d'la beuh, risque d'étouffement garanti!)
 * Avant de servir la belle marmite cari, gratte un peu le combava ek un fourchette ou un rap coco et fait tourner une dernière fois
-* 
+*
     'teaser' => 'https://www.facebook.com/pages/Les-Experts-du-Cari-Poulet-Traditionnel/10651994367?sk=infoLe cari :<ul>Un oignon par personne, mais un gros gnon alors!
 * Une tomate pour 4-5, faut pas abuser des tomates n'est-ce pas...
 * 2-3 gousses d'ail par personne, parce que c'est mieux quand tout le monde i pu d'la gueule!
@@ -2911,7 +2840,7 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 * Pour les balaises: râper du combava dedans! (Pour trouver du combava en France: allé chez les épiceries asiatiques en cherchant bien vous trouverez peut être! Et si vous savez pas a quoi sa ressemble, bin déjà zete dans la merde, enfin ça ressemble a un petit citron vert boursouflé, passé un ongle dessus vous sentirez l'odeur caractéristique entre citron et citronnelle. Après si vous savez pas a quoi sa ressemble, et encore moins qu'est-ce que ça sent... bin tirer la chasse au point ou vous en êtes!!)
 * Pour les moins balaises mais néanmoins pas trop con : vous pouvez remplacer le combava par du citron vert (râper, mettez un peu de pulpe et de jus et le tour est joué: vous avez un rougail citron vert!) Vous pouvez aussi le faire avec de la mangue verte aussi! Vous pouvez le faire aussi avec des gratons, c sympa un rougail qui croque! Bien sure si vous savez pas ce qu'est des gratons bin vous êtes aussi dans la merde: rendez vous dans un magasin Asiatique (Chips a base de couane de porc frit! hum c trop bon! Mais attention pas manger de graton quand on a fumé d'la beuh, risque d'étouffement garanti!)
 * Avant de servir la belle marmite cari, gratte un peu le combava ek un fourchette ou un rap coco et fait tourner une dernière fois
-* 
+*
     'log' => '
     'revision_timestamp' => '1401133115
     'format' => '2
@@ -2968,28 +2897,28 @@ Chose importante, tu peux congeler tous tes ingrédients, que tu peux faire en p
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 <ul>Index<ul><a href="http://sav-hourra.fr/index.php/tag/vapeur">http://sav-hourra.fr/index.php/tag/vapeur</a>
 * <span class="Apple-style-span" style="line-height: 24px; "><a href="http://pimentoiseau.canalblog.com/archives/vapeur/index.html">http://pimentoiseau.canalblog.com/archives/vapeur/index.html</a></span>
-* 
+*
 * Recettes<ul><span class="Apple-style-span" style="line-height: 24px; "><a href="http://steamywave.blogspot.com/2008/05/oeufs-cocotte-au-curcuma.html">http://steamywave.blogspot.com/2008/05/oeufs-cocotte-au-curcuma.html</a></span>
 * <a href="http://www.unomafu.fr/article-palourdes-a-la-vapeur-de-sake-93064505.html">http://www.unomafu.fr/article-palourdes-a-la-vapeur-de-sake-93064505.html</a>
 * <a href="http://www.lescuisinesdegarance.com/2011/11/manti-turcs-du-dimanche.html">http://www.lescuisinesdegarance.com/2011/11/manti-turcs-du-dimanche.html</a>
-* 
+*
 * <a href="http://www.bahya-culinaire.com/conseils-d-utilisation-1.html">http://www.bahya-culinaire.com/conseils-d-utilisation-1.html</a>
 * Gnocchis&nbsp;<a href="http://vegebon.wordpress.com/2012/03/04/gnocchi-maison/">http://vegebon.wordpress.com/2012/03/04/gnocchi-maison/</a>
-* 
+*
     'teaser' => '<meta content="text/html; charset=utf-8" http-equiv="content-type">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
 <ul>Index<ul><a href="http://sav-hourra.fr/index.php/tag/vapeur">http://sav-hourra.fr/index.php/tag/vapeur</a>
 * <span class="Apple-style-span" style="line-height: 24px; "><a href="http://pimentoiseau.canalblog.com/archives/vapeur/index.html">http://pimentoiseau.canalblog.com/archives/vapeur/index.html</a></span>
-* 
+*
 * Recettes<ul><span class="Apple-style-span" style="line-height: 24px; "><a href="http://steamywave.blogspot.com/2008/05/oeufs-cocotte-au-curcuma.html">http://steamywave.blogspot.com/2008/05/oeufs-cocotte-au-curcuma.html</a></span>
 * <a href="http://www.unomafu.fr/article-palourdes-a-la-vapeur-de-sake-93064505.html">http://www.unomafu.fr/article-palourdes-a-la-vapeur-de-sake-93064505.html</a>
 * <a href="http://www.lescuisinesdegarance.com/2011/11/manti-turcs-du-dimanche.html">http://www.lescuisinesdegarance.com/2011/11/manti-turcs-du-dimanche.html</a>
-* 
+*
 * <a href="http://www.bahya-culinaire.com/conseils-d-utilisation-1.html">http://www.bahya-culinaire.com/conseils-d-utilisation-1.html</a>
 * Gnocchis&nbsp;<a href="http://vegebon.wordpress.com/2012/03/04/gnocchi-maison/">http://vegebon.wordpress.com/2012/03/04/gnocchi-maison/</a>
-* 
+*
     'log' => '
     'revision_timestamp' => '1401133116
     'format' => '2
