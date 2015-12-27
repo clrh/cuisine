@@ -1,6 +1,5 @@
 # Summary
 
-- [README](./README.md)
 - autres
   - [pates-tarte-maman](autres/pates-tarte-maman.md)
   - [fruits-secs-sales](autres/fruits-secs-sales.md)
