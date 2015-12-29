@@ -7,6 +7,9 @@ Pour un petit moule
 * 100g de sucre
 * 120g tofu soyeux
 * 1cc poudre à lever
+* 50g hv olive
+* 2cc purée pomme
+
 
 Faire fondre le chocolat
 Ajouter la purée d'amande puis les autres ingrédients
