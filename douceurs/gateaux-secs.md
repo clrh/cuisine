@@ -26,5 +26,5 @@ Décodeur:
 * 7 cs agave
 * 2 cs hv coco + 6 cs hv olive
 
-=> Je pense que la mélasse et la farine de chataigne donnent un goût assez prononcé, presque comme avec des épices qu'il n'y a pas (assez) ici. La base étant déclinable à l'infini, je continue mes tests !
+=> Je pense que la mélasse et la farine de chataigne donnent un goût assez prononcé, presque comme avec des épices qu'il n'y a pas (assez) ici. Techniquement rien n'empêche de se préparer un petit caramel au beurre salé pour tremper, n'est ce pas ? La base étant déclinable à l'infini, je continue mes tests !
 
