@@ -16,6 +16,17 @@
 * 1 grappe de raisin
 * 4 kiwis
 
+## Choux - ananas
+
+* moitié poids d'un ananas coupé entier avec la peau (sans les extrémités)
+* moitié poids brocoli + chou vert + quelques pommes
+
+## Pommes
+
+* Pommes en pagaille
+* Jus de citron ou 1 citron
+* C + G
+
 ## Divers
 
 * greenis: Pour 1,2 kg de carottes/pommes => 800g de jus
