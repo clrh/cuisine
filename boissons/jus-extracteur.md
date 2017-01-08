@@ -10,6 +10,16 @@
 * pommes épépinnées
 * C + G
 
+## Le "jus Jules"
+
+=> Caractéristique: beaucoup de fruits
+
+Exemple:
+* 6 pommes, 2 poires, 2 oranges
+* 3 panais
+* 4-6 carottes
+* C + G (un peu)
+
 ## Brocoli-fruits
 
 * 2 têtes de brocoli + pied épluché
