@@ -57,4 +57,5 @@ Amélioration: couper les cardes en petit bouts pour faciliter le passage au gre
 * courge
 *     5 grandes feuilles de chou kale, côtes ôtées,     1 citron,     1 grosse pomme bio,     1 morceau de 2,5 cm de gingembre frais,    1 branche de menthe fraîche
 * épinards, pommes, kiwis
-
+* carottes, épinards, pommes
+* pommes, citron, gingembre
