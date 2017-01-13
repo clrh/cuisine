@@ -55,3 +55,5 @@ Amélioration: couper les cardes en petit bouts pour faciliter le passage au gre
 
 * 1 chou rave, 1/2 céleri rave, 1 gousse vanille fendue/trempée, 2-3 pommes, céleri branche, patate douce
 * courge
+*     5 grandes feuilles de chou kale, côtes ôtées,     1 citron,     1 grosse pomme bio,     1 morceau de 2,5 cm de gingembre frais,    1 branche de menthe fraîche
+
