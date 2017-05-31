@@ -2,7 +2,7 @@
 
 ## Pastillles WC
 
-(En cours de test)
+Testé => KO, ne fond pas
 
 * 200 mL eau bouillante
 * 4g agar agar
