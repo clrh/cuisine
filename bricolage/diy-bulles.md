@@ -1,0 +1,1 @@
+* 240 ml (8 onces) de liquide à vaisselle - 1 c. à soupe de poudre de gomme de guar ( marché d'aliment naturel) - 1 c. à soupe de poudre à pâte (levure chimique) - 4 000 (16 tasses) d'eau - Une corde de coton - 2 bâtons - 1 petit anneau
